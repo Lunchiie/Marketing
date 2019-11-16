@@ -4,8 +4,8 @@ dark blue: #476A6F
 light blue: #258EA6
 dark green: #519E8A
 medium green: #7EB09B
-light green: #A3C4BC
-*/
+light green: #A3C4BC */
+
 
 .wrapper {
   height: 100vh;
@@ -16,6 +16,7 @@ light green: #A3C4BC
   align-items: center;
 
 }
+
 .background {
  
   /* background-color: #258ea6; */
@@ -142,3 +143,4 @@ input.error {
   color: #999;
   font-weight: lighter;
 }
+
