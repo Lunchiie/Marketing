@@ -1,5 +1,6 @@
 import React from "react";
 import Header from "./Components/Header/header";
+import 'bootstrap/dist/css/bootstrap.min.css';
 import RegistrationForm from "./Components/Registration/RegistrationForm";
 import Login from "./Components/Login/login";
 import { BrowserRouter as Router, Route, } from "react-router-dom";
